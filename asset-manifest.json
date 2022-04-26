@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/intervals-app/static/css/main.33aa7317.css",
+    "main.js": "/intervals-app/static/js/main.174abb82.js",
+    "index.html": "/intervals-app/index.html",
+    "main.33aa7317.css.map": "/intervals-app/static/css/main.33aa7317.css.map",
+    "main.174abb82.js.map": "/intervals-app/static/js/main.174abb82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33aa7317.css",
+    "static/js/main.174abb82.js"
+  ]
+}
