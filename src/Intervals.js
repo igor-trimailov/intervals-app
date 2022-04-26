@@ -177,7 +177,7 @@ function Intervals() {
                           filter: `grayscale(${accomplished ? 0 : 80}%)`,
                         }}
                         width="30"
-                        src="/pichu.webp"
+                        src={process.env.PUBLIC_URL + "/pichu.webp"}
                       />
                     )}
                   </Step>
