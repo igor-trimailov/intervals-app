@@ -5,6 +5,7 @@ import { PlayCircle } from "react-bootstrap-icons";
 import { PauseCircle } from "react-bootstrap-icons";
 import { StopCircle } from "react-bootstrap-icons";
 import { ArrowRepeat } from "react-bootstrap-icons";
+import pichu from './assets/pichu.png'
 import "react-step-progress-bar/styles.css";
 import "./Intervals.css";
 
@@ -177,7 +178,7 @@ function Intervals() {
                           filter: `grayscale(${accomplished ? 0 : 80}%)`,
                         }}
                         width="30"
-                        src={process.env.PUBLIC_URL + "/pichu.png"}
+                        src={pichu}
                       />
                     )}
                   </Step>

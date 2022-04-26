@@ -1,6 +1,6 @@
 {
   "name": "intervals-app",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "private": true,
   "homepage": "https://igor-trimailov.github.io/intervals-app",
   "dependencies": {
