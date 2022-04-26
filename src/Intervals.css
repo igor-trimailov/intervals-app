@@ -1,0 +1,29 @@
+#root {
+  height: 100%
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  text-align: center;
+  background-position: center;
+  transition: background-color 0.8s linear;
+  height: calc(100% - 40px);
+  margin: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+
+.container {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.control-icon {
+  color: white;
+  font-size: 110px;
+  padding: 50px;
+}
